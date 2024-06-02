@@ -3,3 +3,4 @@ console.log(numbers[6-1]);
 let r = new Array(3);
 r = [5, 8, 4, 7];
 console.log(r[0]);
+console.log(r[3]);
